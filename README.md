@@ -23,4 +23,4 @@
 ![Selenium](https://img.shields.io/badge/Selenium-4.x-green?logo=selenium)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
 
-## 📁 Структура проекта
+## 📁 Структура проекта (tbd)
